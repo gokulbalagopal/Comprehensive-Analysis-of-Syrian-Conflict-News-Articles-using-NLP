@@ -13,12 +13,19 @@ topicmodels
 #Implementation
 
 • Loadeded the data.
+
 • Splitted the input data.
+
 • Built a corpus object containing all splitted articles
+
 • Cleaned up the corpus
+
 • Created a document term matrix
+
 • Did summaries on the doument term matrix as exploration and stored some output in a file
+
 • Created some plots for exploration
+
 • Ran the topic model function and store some output of the model in a file.
 
 
