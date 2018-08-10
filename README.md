@@ -28,6 +28,7 @@ topicmodels
 
 • Ran the topic model function and store some output of the model in a file.
 
+#List of Rfiles
 
 1.main.R - the main script will first make a call to the function in dataLoading.R for the loading and
 splitting. After that, the script should contain all the code for the cleaning, creation of the document
