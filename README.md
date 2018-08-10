@@ -1,13 +1,13 @@
 #Instructions
 
 Set the working directory in the main.R file and please install, the following packages before you proceed:
-tm
-stringr
-wordcloud
-SnowballC 
-RColorBrewer
-ggplot2
-tidytext
+tm,
+stringr,
+wordcloud,
+SnowballC,
+RColorBrewer,
+ggplot2,
+tidytext,
 topicmodels
 
 #Implementation
