@@ -20,13 +20,11 @@ topicmodels
 
 • Cleaned up the corpus
 
-• Created a document term matrix
-
-• Did summaries on the doument term matrix as exploration and stored some output in a file
+• Created a document term matrix as a part of the data exploration and stored the output.
 
 • Created some plots for exploration
 
-• Ran the topic model function and store some output of the model in a file.
+• Ran the topic model function and stored the model.
 
 ##List of Rfiles
 
